@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 REPO_NAME = "Text-summarisation-using-nlp"
 AUTHOR_USER_NAME = "Sivawork31"
 SRC_READ= 'textSummarizer'
-AUTHOR_EMAIL= "sivawork31@gmail.com"
+AUTHOR_EMAIL= "siva.work31@gmail.com"
 
 
 setuptools.setup(
